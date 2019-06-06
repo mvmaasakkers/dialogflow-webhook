@@ -16,7 +16,6 @@ This project is used for structs and contexts for use in webhooks. There is a ne
 <!-- TOC -->
 
 - [Dialogflow Webhook](#dialogflow-webhook)
-- [:no_entry: Deprecation Notice](#no_entry-deprecation-notice)
 - [Table of Content](#table-of-content)
 - [Introduction](#introduction)
     - [Goal of this package](#goal-of-this-package)
